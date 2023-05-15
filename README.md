@@ -1,4 +1,1 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArMaGeDDoN-SS&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArMaGeDDoN-SS&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArMaGeDDoN-SS&theme=2077&exclude=java)
-
+<img align="center" src="https://media.discordapp.net/attachments/1085926459559911434/1107674042615476234/image.png?width=899&height=506">
