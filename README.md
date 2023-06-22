@@ -1,1 +1,1 @@
-<img align="center" src="https://media.discordapp.net/attachments/1085926459559911434/1107674601082867803/NAS_Banner.png?width=899&height=506">
+<img align="center" src="https://sun9-25.userapi.com/impf/L6bDVeoxwdxJG79uxC1jN7zFGcWpYKV6c-u86g/FBRyCX6gKq4.jpg?size=1400x794&quality=96&sign=c1be137c46445805a5f8c51b6d39876a&c_uniq_tag=DIttLZTDQugOjMpJnIotDKfAcLKFSTmc9AD9cRnpWTE&type=album">
